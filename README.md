@@ -24,4 +24,5 @@
 
 
 🔭 Actualmente estoy trabajando en el Centro de Investigación del Cáncer en Salamanca como Desarrollador FullStack.
+
 🌱 Actualmente estoy aprendiendo nuevas metodologías Cloud y formándome para adquirir nuevos idiomas.
