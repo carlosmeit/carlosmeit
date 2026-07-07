@@ -4,10 +4,10 @@
 
 ### En qué estoy trabajando
 
-*   🔭 Liderando el desarrollo de **LAL-25**, una plataforma médica a nivel nacional, construyendo interfaces dinámicas con **React** para la gestión avanzada de casos clínicos.
-*   ⚙️ Modernizando la infraestructura de plataformas de investigación genómica (**Atlas**, **Xibal**), gestionando el despliegue con **Docker** y securizando los accesos y el tráfico perimetral con **Cloudflare**.
-*   📈 Desplegando stacks de observabilidad con **Grafana** para la monitorización en tiempo real de servidores Linux, bases de datos y rendimiento de aplicaciones.
-*   ☁️ Migrando servicios legacy hacia arquitecturas cloud más resilientes, combinando soluciones on-premise con **AWS / Google Cloud**.
+*  Liderando el desarrollo de **LAL-25**, una plataforma médica a nivel nacional, construyendo interfaces dinámicas con **React** para la gestión avanzada de casos clínicos.
+*  Modernizando la infraestructura de plataformas de investigación genómica (**Atlas**, **Xibal**), gestionando el despliegue con **Docker** y securizando los accesos y el tráfico perimetral con **Cloudflare**.
+*  Desplegando stacks de observabilidad con **Grafana** para la monitorización en tiempo real de servidores Linux, bases de datos y rendimiento de aplicaciones.
+*  Migrando servicios legacy hacia arquitecturas cloud más resilientes, combinando soluciones on-premise con **AWS / Google Cloud**.
 
 ### 💻 Tech Stack & Herramientas
 
