@@ -1,4 +1,4 @@
-# Hola, soy Juan Carlos Rodríguez 👋
+# Hola, soy Juan Carlos Rodríguez 
 
 **Full-Stack Developer & Cloud Infrastructure Administrator**
 
